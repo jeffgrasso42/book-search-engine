@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "server/server.js",
-  "homepage": "https://book-search-j.herokuapp.com/",
   "engines": {
     "node": "16.8.0",
     "npm": "8.19.2"
